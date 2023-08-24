@@ -51,13 +51,13 @@ class CurrentAccount extends Account {
 main() {
 
 
-  SavingsAccount SA = SavingsAccount(2122020001, 10000.0, 0.00);
+  SavingsAccount SA = SavingsAccount(20001, 10000.0, 0.00);
 
   SA.deposit(5000.0);
   SA.withdraw(7000);
   SA.withdraw(8500.0);
 
-  CurrentAccount CA = CurrentAccount(2122020005, 25000.0, 1500.0);
+  CurrentAccount CA = CurrentAccount(20002, 25000.0, 1500.0);
 
   CA.deposit(8000.0);
   CA.withdraw(15000);
