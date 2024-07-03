@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KamranHussen71
-- 👀 I’m interested in app development.
-- 🌱 I’m currently learning Flutter and Dart language.
+- 👀 I’m interested in Data Analysis.
+- 🌱 I’m currently learning SQL, Excel, and Python, Power Bi.
 
 <!---
 KamranHussen71/KamranHussen71 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
