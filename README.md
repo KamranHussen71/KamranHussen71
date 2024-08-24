@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm MD Kamran Hussen</h1>
+<h1 align="center">Hi 👋, I'm Kamran Hussen</h1>
 <h3 align="center">A passionate data analyst learner</h3>
 
-- 🌱 I’m currently learning **Excel,Sql,Power BI,Python**
+- 🌱 I’m currently learning **Excel, SQL, Power BI, Python**
 
 - 📫 How to reach me **kamranhussen716@gmail.com**
 
